@@ -1,2 +1,2 @@
-# python-start
-python-start
+# sample-python
+sample-python
